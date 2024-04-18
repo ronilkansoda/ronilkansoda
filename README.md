@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning JavaScript, MERN
 - 👯 I’m looking to collaborate on Website Devlopment
-- - ⚡ Fun fact: I am Not Special 😒
+- ⚡ Fun fact: I am Not Special 😒
 <!--
 **ronilkansoda/ronilkansoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

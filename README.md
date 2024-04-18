@@ -1,6 +1,12 @@
 ### Hi there 👋
-- 🌱 I’m currently learning JavaScript, MERN
-- 👯 I’m looking to collaborate on Website Devlopment
+👋 Hi there! I'm Ronil, a passionate web developer with expertise in JavaScript and the MERN stack. With a strong foundation in Java, Python, C++, and C, I've seamlessly transitioned into the world of web development, crafting numerous websites and honing my skills along the way.
+
+- 🚀 I thrive on building dynamic and interactive web applications, bringing ideas to life with clean, efficient code and intuitive user experiences.
+
+- 🎥 When I'm not coding, you can find me immersed in the world of video editing, shaping captivating visuals and stories over on my Instagram handle @chalogyaanpele.
+  
+- ✨ Let's connect and collaborate on exciting projects! Reach out to me via ronilkansoda73@gmail.com ..
+  
 - ⚡ Fun fact: I am Not Special 😒
 <!--
 **ronilkansoda/ronilkansoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

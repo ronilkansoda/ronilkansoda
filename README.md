@@ -4,7 +4,7 @@
 
 - 🎥 When I'm not coding, you can find me immersed in the world of video editing, shaping captivating visuals and stories over on my Instagram handle @chalogyaanpele.
   
-- ✨ Let's connect and collaborate on exciting projects! Reach out to me via ronilkansoda73@gmail.com ..
+- ✨ Let's connect and collaborate on exciting projects! Reach out to me via https://www.linkedin.com/in/ronil-kansoda-b761ab246?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNCiQxMnETzGbpWU1nUDQgA%3D%3D ..
   
 - ⚡ Fun fact: I am Not Special 😒
 <!--

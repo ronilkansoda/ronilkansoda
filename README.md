@@ -1,5 +1,4 @@
-### Hi there 👋
-👋 Hi there! I'm Ronil, a passionate web developer with expertise in JavaScript and the MERN stack. With a strong foundation in Java, Python, C++, and C, I've seamlessly transitioned into the world of web development, crafting numerous websites and honing my skills along the way.
+### Hi there 👋, I'm Ronil, a passionate web developer with expertise in JavaScript and the MERN stack. With a strong foundation in Java, Python, C++, and C, I've seamlessly transitioned into the world of web development, crafting numerous websites and honing my skills along the way.
 
 - 🚀 I thrive on building dynamic and interactive web applications, bringing ideas to life with clean, efficient code and intuitive user experiences.
 

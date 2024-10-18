@@ -1,6 +1,4 @@
 [![MasterHead](./pic1.png)](https://www.linkedin.com/in/ronil-kansoda-b761ab246)
-<h1 align="center">Hello 👋, I'm Ronil</h1>
-<h3 align="center">A passionate Full Stack Developer and Video Editor </h3>
 
 <img align="right" alt="Coding" width="260" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
 
@@ -68,14 +66,6 @@
   </a> 
 </p>
 
-
-<table align="center" border="0">
-  <tr>
-    <td><img alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"></td>
-    <td><img alt="Coding" width="150" height="150" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"></td>
-    <td><img alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"></td>
-  </tr>
-</table>
 
 <br><br/>
 <a href="https://github.com/ronilkansoda/github-readme-stats"><img alt="Ronil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ronil&show_icons=true&theme=radical" /></a>

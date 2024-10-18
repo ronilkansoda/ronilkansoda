@@ -1,8 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://www.linkedin.com/in/ronil-xyz)
+[![MasterHead](./pic1.png)](https://www.linkedin.com/in/ronil-kansoda-b761ab246)
 <h1 align="center">Hello 👋, I'm Ronil</h1>
 <h3 align="center">A passionate Full Stack Developer and Video Editor </h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
+<img align="right" alt="Coding" width="260" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronil-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="ronil-xyz" /> </p>
 

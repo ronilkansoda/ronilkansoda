@@ -17,7 +17,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/ronil-kansoda-b761ab246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronil-xyz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ronil-kansoda-b761ab246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronil-xyz" height="30" width="40" /></a>
 <a href="https://x.com/Ronil_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronil_xyz" height="30" width="40" /></a>
 <a href="https://instagram.com/chalogyaanpele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chalogyaanpele" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ronil_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ronil_03" height="30" width="40" /></a>

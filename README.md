@@ -68,6 +68,7 @@
 
 
 <br><br/>
-<a href="https://github.com/ronilkansoda/github-readme-stats"><img alt="Ronil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ronil&show_icons=true&theme=radical" /></a>
-<a href="https://github.com/ronilkansoda/github-readme-stats"><img alt="Ronil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronil&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronilkansoda&show_icons=true&theme=radical&locale=en" alt="ronilkansoda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronilkansoda&show_icons=true&theme=radical&locale=en&layout=compact" alt="ronilkansoda" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ronilkansoda&theme=dark" alt="ronilkansoda" /></p>
 <br/>

@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="260" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronil-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="ronil-xyz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronilkansoda&label=Profile%20views&color=0e75b6&style=flat" alt="ronilkansoda" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ronil_xyz" target="blank"><img src="https://img.shields.io/twitter/follow/ronil_xyz?logo=twitter&style=for-the-badge" alt="ronil_xyz" /></a> </p>
 
